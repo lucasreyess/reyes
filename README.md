@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
    <title>deber</title>
+	  <link href="walterreyess" rel="stylesheet"/>
   </head>
    <body bgcolor="#cceeff">
 <table border="3px" style= "width: 100%">
